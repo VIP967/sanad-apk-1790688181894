@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">نسكي — NUSUKI</string>
+    <string name="tagline">رفيقك في عبادتك</string>
+    <string name="home">الرئيسية</string>
+    <string name="quran">القرآن</string>
+    <string name="worship">العبادات</string>
+    <string name="qibla">القبلة</string>
+    <string name="more">المزيد</string>
+</resources>
